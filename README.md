@@ -1,4 +1,4 @@
-# Monkey-Type Clone
+# Monkey-Type
 
 This project is a clone of MonkeyType, featuring typing speed tests and typing pattern analysis.
 
@@ -56,8 +56,6 @@ cd ../client
 npm start
 ```
 
-The application will be available at `http://localhost:3000`.
-
 ## Usage
 
 1. Create an account or login
@@ -65,11 +63,3 @@ The application will be available at `http://localhost:3000`.
 3. Select text type (words, numbers, punctuation, or mixed)
 4. Start typing and see your results
 5. View your typing history and analysis in the dashboard
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
